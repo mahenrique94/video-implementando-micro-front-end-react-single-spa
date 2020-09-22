@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@mc/root-config": "http://localhost:9000/mc-root-config.js",
+    "@mc/react-single": "http://localhost:8500/mc-react-single.js",
+    "@mc/react-multiples": "http://localhost:8500/mc-react-multiples.js",
+    "@mc/react-lazy": "http://localhost:8500/mc-react-lazy.js",
+    "@mc/react-parcel": "http://localhost:8501/mc-react-parcel.js",
+    "@mc/react-route": "http://localhost:8500/mc-react-route.js",
+    "@mc/utils": "http://localhost:8600/mc-utils.js",
+    "@mc/react-header": "http://localhost:8700/mc-react-header.js"
+  }
+}
